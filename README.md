@@ -11,7 +11,8 @@ The Flask backend validates requests, performs business logic, and communicates 
 The database stores and retrieves user credentials, election information, and voting records.
 Flask processes the returned data and sends the appropriate response back to the user's browser.
 
-:                User
+```text
+                 User
                   │
                   ▼
        HTML/CSS/JavaScript (Frontend)
@@ -62,9 +63,9 @@ This project was developed collaboratively by a team of three students.
 
 * **Frontend Development (Shaarvin):** Designed and implemented the user interface using HTML, CSS, and JavaScript, creating a responsive and user-friendly voting experience.
 * **Backend Development (Riyaz):** Developed the Flask application, implemented the application logic, integrated SQLAlchemy, and managed request handling and authentication.
-* **Database & Analytics (My Contribution):** Designed the MySQL relational database schema, developed credential generation scripts, created data processing utilities using Pandas, built the live election analytics dashboard with Matplotlib, and assisted with backend database integration and deployment.
+* **Database & Analytics (Raihaan):** Designed the MySQL relational database schema, developed credential generation scripts, created data processing utilities using Pandas, built the live election analytics dashboard with Matplotlib, and assisted with backend database integration and deployment.
 
-
+Each team member was responsible for a core component of the system while collaborating closely throughout development, testing, and deployment.
 
 
 
