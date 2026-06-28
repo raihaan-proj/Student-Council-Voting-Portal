@@ -34,12 +34,12 @@ Flask processes the returned data and sends the appropriate response back to the
        Response sent back to user
 
 Features:
-🎨 Easy-to-use responsive UI design
-💪 Robust Configuration of Postings and Candidates
-🔐 Automated authentication using random unique generated passwords
-💉 Preventing SQLi Attacks using SQLAlchemy
-👤 Total User Anonymity and Vote Hashing
-📊 Live Analytical Dashboard in the form of a Pie Chart
+*🎨 Easy-to-use responsive UI design
+*💪 Robust Configuration of Postings and Candidates
+*🔐 Automated authentication using random unique generated passwords
+*💉 Preventing SQLi Attacks using SQLAlchemy
+*👤 Total User Anonymity and Vote Hashing
+*📊 Live Analytical Dashboard in the form of a Pie Chart
 
 Technologies Used:
 Python 
