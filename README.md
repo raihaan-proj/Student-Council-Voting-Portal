@@ -11,6 +11,28 @@ The Flask backend validates requests, performs business logic, and communicates 
 The database stores and retrieves user credentials, election information, and voting records.
 Flask processes the returned data and sends the appropriate response back to the user's browser.
 
+:                User
+                  │
+                  ▼
+       HTML/CSS/JavaScript (Frontend)
+                  │
+        HTTP Request via Nginx
+                  │
+                  ▼
+        Gunicorn (WSGI Server)
+                  │
+                  ▼
+          Flask Application
+                  │
+                  ▼
+             MySQL Database
+                  │
+                  ▼
+          Flask processes data
+                  │
+                  ▼
+       Response sent back to user
+
 Features:
 🎨 Easy-to-use responsive UI design
 💪 Robust Configuration of Postings and Candidates
@@ -28,4 +50,12 @@ Mathplotlib
 SQL Alchemy
 Linux 
 Gunicorn
+
+My contributions:
+
+Desgined and implimented the relational database
+Developed Login credential generation scripts
+Built the live election Dashboard
+Created data processing utilities using Pandas
+Assisted in back end SQL Alchemy code and overall Deployment
 
