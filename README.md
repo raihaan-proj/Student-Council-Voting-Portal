@@ -54,9 +54,9 @@ Gunicorn
  
 Team Contributions
 
-Riyaz (@healthboost213): Flask Backend Development and Linux Deployment
-Raihaan (@raihaan-proj): MySQLDB Architecting and Deployment Work
-Shaarvin (@Shaarvin-67): HTML + CSS Frontend Development
+* Riyaz (@healthboost213): Flask Backend Development and Linux Deployment
+* Raihaan (@raihaan-proj): MySQLDB Architecting and Deployment Work
+* Shaarvin (@Shaarvin-67): HTML + CSS Frontend Development
 
 This project was developed collaboratively by a team of three students.
 
