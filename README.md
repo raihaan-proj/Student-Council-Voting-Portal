@@ -1,9 +1,9 @@
 # Student-Council-Voting-Portal
 School's student council voting portal which was created by myself and two other classmates in order to replace the previous use of google forms, The portal was hosted on Gunicorn on a Linux server backed up by Nginx (for reverse proxying). The portal was built using a 3 layer architecture which consists of:
 
-1. The front end consisting of HTML, CSS (Classmate 1)
-2. The back end developed by python using Flask and SQL Alchemy (Classmate 2)
-3. The Database which is made by MySQL (Me)
+1. The front end consisting of HTML, CSS 
+2. The back end developed by python using Flask and SQL Alchemy 
+3. The Database which is made by MySQL
 
 The user interacts with the web interface built using HTML, CSS, and JavaScript.
 Requests are received by Nginx, which forwards them to Gunicorn, the WSGI server hosting the Flask application.
