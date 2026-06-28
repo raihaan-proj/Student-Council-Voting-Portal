@@ -46,10 +46,23 @@ Python
 Flask
 MySQL
 Pandas
-Mathplotlib
-SQL Alchemy
+Matplotlib
+SQLAlchemy
 Linux 
 Gunicorn
+
+ 
+Team Contributions
+
+This project was developed collaboratively by a team of three students.
+
+* **Frontend Development:** Designed and implemented the user interface using HTML, CSS, and JavaScript, creating a responsive and user-friendly voting experience.
+* **Backend Development:** Developed the Flask application, implemented the application logic, integrated SQLAlchemy, and managed request handling and authentication.
+* **Database & Analytics (My Contribution):** Designed the MySQL relational database schema, developed credential generation scripts, created data processing utilities using Pandas, built the live election analytics dashboard with Matplotlib, and assisted with backend database integration and deployment.
+
+
+
+
 
 My contributions:
 
@@ -59,3 +72,9 @@ Built the live election Dashboard
 Created data processing utilities using Pandas
 Assisted in back end SQL Alchemy code and overall Deployment
 
+Project Highlights
+
+Successfully deployed for a live student council election.
+Replaced the previous Google Forms voting process with a dedicated web application.
+Hosted on a Linux server using Nginx and Gunicorn.
+Included a live analytics dashboard for monitoring election results.
