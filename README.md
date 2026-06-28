@@ -34,12 +34,12 @@ Flask processes the returned data and sends the appropriate response back to the
        Response sent back to user
 
 Features:
-* **🎨 Easy-to-use responsive UI design
-* **💪 Robust Configuration of Postings and Candidates
-* **🔐 Automated authentication using random unique generated passwords
-* **💉 Preventing SQLi Attacks using SQLAlchemy
-* **👤 Total User Anonymity and Vote Hashing
-* **📊 Live Analytical Dashboard in the form of a Pie Chart
+* 🎨 Easy-to-use responsive UI design
+* 💪 Robust Configuration of Postings and Candidates
+* 🔐 Automated authentication using random unique generated passwords
+* 💉 Preventing SQLi Attacks using SQLAlchemy
+* 👤 Total User Anonymity and Vote Hashing
+* 📊 Live Analytical Dashboard in the form of a Pie Chart
 
 Technologies Used:
 Python 
@@ -54,10 +54,14 @@ Gunicorn
  
 Team Contributions
 
+Riyaz (@healthboost213): Flask Backend Development and Linux Deployment
+Raihaan (@raihaan-proj): MySQLDB Architecting and Deployment Work
+Shaarvin (@Shaarvin-67): HTML + CSS Frontend Development
+
 This project was developed collaboratively by a team of three students.
 
-* **Frontend Development:** Designed and implemented the user interface using HTML, CSS, and JavaScript, creating a responsive and user-friendly voting experience.
-* **Backend Development:** Developed the Flask application, implemented the application logic, integrated SQLAlchemy, and managed request handling and authentication.
+* **Frontend Development (Shaarvin):** Designed and implemented the user interface using HTML, CSS, and JavaScript, creating a responsive and user-friendly voting experience.
+* **Backend Development (Riyaz):** Developed the Flask application, implemented the application logic, integrated SQLAlchemy, and managed request handling and authentication.
 * **Database & Analytics (My Contribution):** Designed the MySQL relational database schema, developed credential generation scripts, created data processing utilities using Pandas, built the live election analytics dashboard with Matplotlib, and assisted with backend database integration and deployment.
 
 
